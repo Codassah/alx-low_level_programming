@@ -2,7 +2,6 @@
 
 int main (void)
 {	
-	string A = "Programming is like building a multilingual puzzle";
-	puts(A);
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
