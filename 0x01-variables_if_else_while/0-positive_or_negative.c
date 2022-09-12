@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /*
- * main - assigns random humber to int n
- * prints out after execution
- * Return : 0 always
+ * main - assigns a random number to int n everytime
+ * it executes, and prints it
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -21,4 +21,3 @@ int main(void)
 		printf("%d is negative\n", n);
 	return (0);
 }
-	
