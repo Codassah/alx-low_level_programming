@@ -1,10 +1,10 @@
-#include <main.h>
+#include "main.h"
 
 /**
- * main - function prints "_putchar" followed by new line
- * Return: always 0
+ * main -  prints Holberton, followed by a new line
+ * Return: Always 0 (Success)
  */
-int maint(void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
