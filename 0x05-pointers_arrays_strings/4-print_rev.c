@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "mian.h"
+#include "main.h"
 
 /**
  * print-rev - Prints a string in reverse order
