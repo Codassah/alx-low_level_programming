@@ -15,7 +15,7 @@ int _atoi(char *s)
 	d = 0;
 	n = 0;
 	len = 0;
-	f = 0; 
+	f = 0;
 	digit = 0;
 
 	while (s[len] != '\0')
@@ -49,7 +49,8 @@ int _atoi(char *s)
 /**
  * main - adds two positive number
  * @argc: number of arguments
- * @argv: array of arguents
+ * @argv: array of argments
+ *
  * Return: 0 (Success), or 1 (Success)
  */
 int main(int argc, char *argv[])
