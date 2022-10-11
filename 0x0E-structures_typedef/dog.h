@@ -2,12 +2,12 @@
 #define DOG_H
 
 /**
- * struct dog - a dogs basic info
- * @name - first member
- * @age - second member 
- * @owner - third member
+ * struct dog - a dog's basic info
+ * @name: First member
+ * @age: Second member
+ * @owner: Third member
  *
- * Description : more defined description
+ * Description: Longer description
  */
 struct dog
 {
